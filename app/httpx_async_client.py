@@ -18,7 +18,7 @@ def get_httpx_async_client() -> AsyncClient:
 
 
 async def close_httpx_async_client() -> None:
-    """Closing global  instance of httpx.AsyncClient if it exists or not closed."""
+    """Closing global instance of httpx.AsyncClient if it exists or not closed."""
     global _httpx_async_client
 
     if _httpx_async_client is not None:

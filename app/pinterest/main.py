@@ -7,8 +7,8 @@ from app.pinterest.pinterest_schema import PinterestSchema
 from icecream import ic
 
 
-def clean_response_text(response: str):
-    return response.lstrip("jobsCallback(").rstrip(")")
+def clean_response_text(text: str) -> str:
+    return text.lstrip("jobsCallback(").rstrip(")")
 
 
 async def main() -> None:
