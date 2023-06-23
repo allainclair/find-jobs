@@ -1,0 +1,2232 @@
+{
+   "totalHits":20,
+   "nextPageToken":null,
+   "spellingCorrection":null,
+   "searchResults":[
+      {
+         "summary":{
+            "job_summary":"We are looking for inquisitive, well-rounded Backend engineers to join our Core Engineering teams. Working closely with product managers, designers, and backend engineers, you’ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks & features. You will empower both developers and Pinners alike. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.",
+            "job_title_snippet":"<b>Software Engineer</b>, Backend",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/104157806329766598",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"Mexico City",
+                  "state":"CDMX",
+                  "zip":null,
+                  "country":"MX",
+                  "address":"Mexico City, CDMX, Mexico",
+                  "location":[
+                     -99.133208,
+                     19.4326077
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":18370872,
+            "xc_id":3343,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2541507",
+            "ats_portalid":"xcloud",
+            "clientid":"3343",
+            "language":"en-US",
+            "title":"Software Engineer, Backend",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"Mexico City",
+            "primary_state":null,
+            "primary_zip":null,
+            "primary_country":"MX",
+            "primary_address":null,
+            "primary_location":[
+               0.0,
+               0.0
+            ],
+            "addtnl_locations":[
+
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">We are looking for inquisitive, well-rounded Backend engineers to join our Core Engineering teams. Working closely with product managers, designers, and backend engineers, you’ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks & features. You will empower both developers and Pinners alike. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.</span></p>\r\n<p> </p>\r\n<p><strong>What you’ll do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Write high-quality, performant Python/Java code to build out workflows leveraging API’s that enable our systems that maintain Pinner trust from a Privacy and regulatory compliance perspective</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that leverage large-scale data</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Partner with design, product, and backend teams to build end-to-end functionality</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Put on your Pinner hat to suggest new product ideas and features</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features you develop</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Grow as an engineer by working with world-class peers on varied and high-impact projects</span></li>\r\n</ul>\r\n<p> </p>\r\n<p><strong>What we’re looking for:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Deep understanding of API/workflow  development and best practices in Python or Java</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">3+ years of industry API and backend development experience, building API endpoints for consumer or business-facing products</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Proficiency in common backend tech stacks for RESTful API, storage, caching, and data processing</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience in following best practices in writing reliable and maintainable code that may be used by many other engineers</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ability to keep up-to-date with new technologies to understand what should be incorporated</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong collaboration and communication skills</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience with GraphQL large data processing is a plus</span></li>\r\n</ul>\r\n<p><!-- x-tinymce/html -->This position is not eligible for relocation assistance and candidates that apply should be based and legally authorized to work in Mexico.</p>\r\n<p>#LI-REMOTE</p>\r\n<p><span data-sheets-value=\"{\"1\":2,\"2\":\"#LI-MM\"}\" data-sheets-userformat=\"{\"2\":8705,\"3\":{\"1\":0},\"12\":0,\"16\":12}\">#LI-MM</span></p><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"Mexico",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Engineering (L2)",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-05-09T00:00:00",
+            "open_date":"2023-05-09T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/18370872/software-engineer-backend-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/18370872/software-engineer-backend-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12281760,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"We are looking for inquisitive, well-rounded API engineers to join our Core Engineering teams. Working closely with product managers, designers, and backend engineers, you’ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks & features. You will empower both developers and Pinners alike. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.",
+            "job_title_snippet":"<b>Software Engineer</b>, API",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/98106094330487494",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"Mexico City",
+                  "state":"CDMX",
+                  "zip":null,
+                  "country":"MX",
+                  "address":"Mexico City, CDMX, Mexico",
+                  "location":[
+                     -99.133208,
+                     19.4326077
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":18370871,
+            "xc_id":3342,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2541498",
+            "ats_portalid":"xcloud",
+            "clientid":"3342",
+            "language":"en-US",
+            "title":"Software Engineer, API",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"Mexico City",
+            "primary_state":null,
+            "primary_zip":null,
+            "primary_country":"MX",
+            "primary_address":null,
+            "primary_location":[
+               0.0,
+               0.0
+            ],
+            "addtnl_locations":[
+
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">We are looking for inquisitive, well-rounded API engineers to join our Core Engineering teams. Working closely with product managers, designers, and backend engineers, you’ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks & features. You will empower both developers and Pinners alike. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.</span></p>\r\n<p> </p>\r\n<p><strong>What you’ll do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Write high-quality, performant Python code to build out the APIs that enable our Pinner-facing frontend features on Android, iOS, and Web</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Partner with design, product, and backend teams to build end-to-end functionality</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Put on your Pinner hat to suggest new product ideas and features</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features you develop</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Grow as an engineer by working with world-class peers on varied and high-impact projects</span></li>\r\n</ul>\r\n<p><strong>What we’re looking for:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Deep understanding of API development and best practices in Python</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">3+ years of industry API and backend development experience, building API endpoints for consumer or business facing products</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Proficiency in common backend tech stacks for RESTful API, storage, caching and data processing</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience in following best practices in writing reliable and maintainable code that may be used by many other engineers</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ability to keep up-to-date with new technologies to understand what should be incorporated</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong collaboration and communication skills</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience with GraphQL is a plus</span></li>\r\n</ul>\r\n<p> </p>\r\n<p><!-- x-tinymce/html -->This position is not eligible for relocation assistance and candidates that apply should be based and legally authorized to work in Mexico.</p>\r\n<p>#LI-REMOTE</p>\r\n<p><span data-sheets-value=\"{\"1\":2,\"2\":\"#LI-MM\"}\" data-sheets-userformat=\"{\"2\":8705,\"3\":{\"1\":0},\"12\":0,\"16\":12}\">#LI-MM</span></p><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"Mexico",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Engineering (L2)",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-05-09T00:00:00",
+            "open_date":"2023-05-09T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/18370871/software-engineer-api-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/18370871/software-engineer-api-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12281760,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"As a Software Engineer in the Web Platform Team you will drive initiatives that empower developers to build modern world-class web experiences for our Pinners with high productivity, performance and quality. We’re looking for someone who is passionate about front-end, has a growth mindset and isn’t afraid to give their opinion on how we can improve. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.",
+            "job_title_snippet":"<b>Software Engineer</b>, Web",
+            "search_text_snippet":"As a <b>Software Engineer</b> in the Web Platform Team you will drive initiatives that empower developers to build modern world-class web experiences for our Pinners with high productivity, ..."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/120484285510492870",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               },
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":18255345,
+            "xc_id":3317,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2530895",
+            "ats_portalid":"xcloud",
+            "clientid":"3317",
+            "language":"en-US",
+            "title":"Software Engineer, Web",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"San Francisco",
+            "primary_state":"CA",
+            "primary_zip":null,
+            "primary_country":"US",
+            "primary_address":null,
+            "primary_location":[
+               -122.419,
+               37.7749
+            ],
+            "addtnl_locations":[
+               {
+                  "addtnl_city":"Remote",
+                  "addtnl_state":"CA",
+                  "addtnl_zip":null,
+                  "addtnl_country":"US",
+                  "addtnl_address":null,
+                  "addtnl_location":[
+                     -119.418,
+                     36.7783
+                  ]
+               }
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">As a Software Engineer in the Web Platform Team you will drive initiatives that empower developers to build modern world-class web experiences for our Pinners with high productivity, performance and quality. We’re looking for someone who is passionate about front-end, has a growth mindset and isn’t afraid to give their opinion on how we can improve. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.</span></p>\r\n<p> </p>\r\n<p><strong>What you’ll do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build robust frameworks and features that empower hundreds of developers and support millions of users</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Enable developers to work more effectively by improving foundational web architecture, builds, CI/CD and testing capabilities.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Drive changes that improve overall developer experience for all web engineers across Pinterest.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Identify site-wide challenges; propose, test, and ship solutions.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Champion and drive large-scale, cross-functional initiatives that improve the Web platform.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Increase web stability, scalability, performance and accessibility by implementing the best web development standards.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Mentor team members and participate actively in design and code reviews, team processes and architectural decisions.</span></li>\r\n</ul>\r\n<p> </p>\r\n<p><strong>What we’re looking for:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">4+ years of experience in Web development and a deep understanding of JavaScript, CSS, DOM, HTTP protocol and how the web works.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Expertise with technologies such as React, Redux (or other state management solutions), Relay, GraphQL, TypeScript, Jest and React Testing Library.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Good knowledge of build tools such as Webpack, Turbopack, or Vite.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Familiarity with Node.js, server-side rendering techniques, and frameworks such as Next.js.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Track record of delivering large, cross-functional projects across multiple organizations and being a champion of developer experience, performance and quality.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong written and verbal communication skills and the ability to collaborate across teams to make platform improvements, test functionality, and evangelize adoption of platform features.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Love for Web and drive to keep up-to-date with new technologies, trends and best practices in client architecture.</span></li>\r\n</ul>\r\n<p> </p>\r\n<p><strong>Web Platform teams </strong><span style=\"font-weight: 400;\">(alphabetized):</span></p>\r\n<p>Client Platform</p>\r\n<p> </p>\r\n<p>This position is not eligible for relocation assistance.</p>\r\n<p>#CN-1 #LI-REMOTE</p><div class=\"content-pay-transparency\"><p><p>At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.</p>\r\n<p><em><span style=\"font-weight: 400;\">Information regarding the culture at Pinterest and benefits available for this position can be found <a href=\"https://www.pinterestcareers.com/pinterest-life/\" target=\"_blank\" rel=\"noopener\">here</a>.</span></em></p></p><p class=\"title\">US based applicants only</p><div class=\"pay-range\"><span>$172,500</span><span class=\"divider\">—</span><span>$258,700 USD</span></div></div><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"United States",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Engineering (L2)",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-04-24T00:00:00",
+            "open_date":"2023-04-24T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/18255345/software-engineer-web-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/18255345/software-engineer-web-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12260160,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"We are looking for inquisitive, well-rounded Android engineers to join our product Engineering teams. Working closely with product managers, designers, and backend engineers, you’ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks & features. You will empower both developers and Pinners alike. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.",
+            "job_title_snippet":"<b>Software Engineer</b>, Android",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/88874136618574534",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               },
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":17947566,
+            "xc_id":3221,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2496193",
+            "ats_portalid":"xcloud",
+            "clientid":"3221",
+            "language":"en-US",
+            "title":"Software Engineer, Android",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"San Francisco",
+            "primary_state":"CA",
+            "primary_zip":null,
+            "primary_country":"US",
+            "primary_address":null,
+            "primary_location":[
+               -122.419,
+               37.7749
+            ],
+            "addtnl_locations":[
+               {
+                  "addtnl_city":"Remote",
+                  "addtnl_state":"CA",
+                  "addtnl_zip":null,
+                  "addtnl_country":"US",
+                  "addtnl_address":null,
+                  "addtnl_location":[
+                     -119.418,
+                     36.7783
+                  ]
+               }
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">We are looking for inquisitive, well-rounded Android engineers to join our product Engineering teams. Working closely with product managers, designers, and backend engineers, you’ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks & features. You will empower both developers and Pinners alike. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.</span></p>\r\n<p> </p>\r\n<p><strong>What you’ll do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build out Pinner-facing frontend features in Android to power the future of inspiration on Pinterest</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Partner with design, product, and backend teams to build end to end functionality</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Put on your Pinner hat to suggest new product ideas and features</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features you develop</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Grow as an engineer by working with world-class peers on varied and high impact projects</span></li>\r\n</ul>\r\n<p><strong>What we’re looking for:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Deep understanding of Android development and best practices in Kotlin and/or Java, e.g. Activity Lifecycle, memory management, etc.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">4+ years of industry Android application development experience, building consumer or business facing products</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience in following best practices in writing reliable and maintainable code that may be used by many other engineers</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ability to keep up-to-date with new technologies to understand what should be incorporated</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong collaboration and communication skills</span></li>\r\n</ul>\r\n<p><strong>Product Android Engineering teams </strong><span style=\"font-weight: 400;\">(alphabetized):</span></p>\r\n<p><span style=\"font-weight: 400;\">-Home Product Team </span></p>\r\n<p> </p>\r\n<p>This position is not eligible for relocation assistance.</p>\r\n<p> </p>\r\n<p>#LI-REMOTE</p>\r\n<p><span data-sheets-value=\"{\"1\":2,\"2\":\"#LI-KK6\"}\" data-sheets-userformat=\"{\"2\":8705,\"3\":{\"1\":0},\"12\":0,\"16\":12}\">#LI-KK6</span></p><div class=\"content-pay-transparency\"><p><p>At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.</p>\r\n<p><em><span style=\"font-weight: 400;\">Information regarding the culture at Pinterest and benefits available for this position can be found <a href=\"https://www.pinterestcareers.com/pinterest-life/\" target=\"_blank\" rel=\"noopener\">here</a>.</span></em></p></p><p class=\"title\">US based applicants only</p><div class=\"pay-range\"><span>$172,500</span><span class=\"divider\">—</span><span>$258,700 USD</span></div></div><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"United States",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Engineering (L2)",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-03-07T00:00:00",
+            "open_date":"2023-03-07T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/17947566/software-engineer-android-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/17947566/software-engineer-android-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12191040,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"We are looking for inquisitive, well-rounded Backend engineers to join our Core and Monetization engineering teams. Working closely with product managers, designers, and engineers, you’ll play an important role in enabling the newest technologies and experiences. You will build robust infrastructure & features. You will empower both developers and Pinners alike. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.",
+            "job_title_snippet":"Senior <b>Software Engineer</b>, Backend",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/97127126194365126",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               },
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":17900678,
+            "xc_id":3200,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2492075",
+            "ats_portalid":"xcloud",
+            "clientid":"3200",
+            "language":"en-US",
+            "title":"Senior Software Engineer, Backend",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"San Francisco",
+            "primary_state":"CA",
+            "primary_zip":null,
+            "primary_country":"US",
+            "primary_address":null,
+            "primary_location":[
+               -122.419,
+               37.7749
+            ],
+            "addtnl_locations":[
+               {
+                  "addtnl_city":"Remote",
+                  "addtnl_state":"CA",
+                  "addtnl_zip":null,
+                  "addtnl_country":"US",
+                  "addtnl_address":null,
+                  "addtnl_location":[
+                     -119.418,
+                     36.7783
+                  ]
+               }
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">We are looking for inquisitive, well-rounded Backend engineers to join our Core and Monetization engineering teams. Working closely with product managers, designers, and engineers, you’ll play an important role in enabling the newest technologies and experiences. You will build robust infrastructure & features. You will empower both developers and Pinners alike. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.</span></p>\r\n<p><strong>What you’ll do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build out the backend to power the future of inspiration on Pinterest </span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support hundreds of millions of users</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Partner with design, product, and engineering teams to build end-to-end functionality</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Put on your Pinner hat to suggest new product ideas and features</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features you develop</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Grow as an engineer by working with world-class peers on varied and high impact projects</span></li>\r\n</ul>\r\n<p><strong>What we’re looking for:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">4+ years of industry backend development experience, building consumer or business facing products</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Proficiency in common backend tech stacks for RESTful API, online service, storage, caching and data processing</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience in following best practices in writing reliable and maintainable code that may be used by many other engineers</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ability to keep up-to-date with new technologies to understand what should be incorporated</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong collaboration and communication skills</span></li>\r\n</ul>\r\n<p><strong>Backend Core Engineering teams:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Community Engagement</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Content Acquisition & Media Platform</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Core Product Indexing Infrastructure</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Creator Innovation</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Shopping Catalog </span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Trust & Safety Platform</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Trust & Safety Signals</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">User Understanding</span></li>\r\n</ul>\r\n<p><strong>Backend Monetization Engineering teams: </strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ads API Platform</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ads Indexing Platform</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ads Reporting Infrastructure</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ads Retrieval Infra</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ads Serving and ML Infra</span></li>\r\n<li style=\"font-weight: 400;\">Measurement User Match</li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Merchant Infra </span></li>\r\n</ul>\r\n<p>This position is not eligible for relocation assistance.</p>\r\n<p><span style=\"font-weight: 400;\">#LI-SA1</span></p>\r\n<p>#LI-REMOTE</p><div class=\"content-pay-transparency\"><p><p>At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.</p>\r\n<p><em><span style=\"font-weight: 400;\">Information regarding the culture at Pinterest and benefits available for this position can be found <a href=\"https://www.pinterestcareers.com/pinterest-life/\" target=\"_blank\" rel=\"noopener\">here</a>.</span></em></p></p><p class=\"title\">US based applicants only</p><div class=\"pay-range\"><span>$172,500</span><span class=\"divider\">—</span><span>$258,700 USD</span></div></div><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"United States",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Engineering (L2)",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-03-01T00:00:00",
+            "open_date":"2023-03-01T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/17900678/senior-software-engineer-backend-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/17900678/senior-software-engineer-backend-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12182400,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"We are looking for a passionate, talented iOS Engineer to join the Engineering team and help us build a product that allows our Pinners to find something inspiring every time they open the app. When you apply to this position, you may be considered for more than one team, as we have mobile engineering needs across many orgs/teams. Wherever you go at Pinterest, you will work with a world-class cross-functional team to build new features, establish stronger platforms and contribute to work that affects our hundreds of millions of users, daily.",
+            "job_title_snippet":"<b>Software Engineer</b>, iOS",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/104297045075862214",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"Mexico City",
+                  "state":"CDMX",
+                  "zip":null,
+                  "country":"MX",
+                  "address":"Mexico City, CDMX, Mexico",
+                  "location":[
+                     -99.133208,
+                     19.4326077
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":17621248,
+            "xc_id":3143,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2452607",
+            "ats_portalid":"xcloud",
+            "clientid":"3143",
+            "language":"en-US",
+            "title":"Software Engineer, iOS",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"Mexico City",
+            "primary_state":"Distrito Federal",
+            "primary_zip":null,
+            "primary_country":"MX",
+            "primary_address":null,
+            "primary_location":[
+               -99.1332,
+               19.4326
+            ],
+            "addtnl_locations":[
+
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">We are looking for a passionate, talented iOS Engineer to join the Engineering team and help us build a product that allows our Pinners to find something inspiring every time they open the app. When you apply to this position, you may be considered for more than one team, as we have mobile engineering needs across many orgs/teams. Wherever you go at Pinterest, you will work with a world-class cross-functional team to build new features, establish stronger platforms and contribute to work that affects our hundreds of millions of users, daily. </span></p>\r\n<p><strong>What you’ll do:</strong></p>\r\n<p> </p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Knit across teams by collaborating with Product managers and designers and other functions to build a holistic product experience that’s right for all Pinners</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Prototype new experiences for Pinners to drive key metrics</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Analyze and visualize data to drive product insights and to inform our decisions</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Contribute best-in-class programming skills to develop highly innovative consumer-facing mobile products</span></li>\r\n</ul>\r\n<p><strong>What we're looking for:</strong></p>\r\n<p> </p>\r\n<ul>\r\n<li><span style=\"font-weight: 400;\">Deep understanding of iOS development and best practices in Objective-C and/or Swift</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Deep understanding of UI development in iOS</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Knowledge of multi-threading, logging, memory management, caching, and builds on iOS</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Expertise in developing and debugging across a diverse service stack including storage and data solutions</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Demonstrated track record of improving software quality with stable releases</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience on platform teams/initiatives, driving technology adoption across feature teams</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Keeps up to date with new technologies to understand what should be incorporated </span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong collaboration and communication skills</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Understanding of A/B testing is a plus</span></li>\r\n</ul>\r\n<p><!-- x-tinymce/html -->This position is not eligible for relocation assistance and candidates that apply should be based and legally authorized to work in Mexico.</p>\r\n<p>#LI-REMOTE</p>\r\n<p><span data-sheets-value=\"{\"1\":2,\"2\":\"#LI-MM\"}\" data-sheets-userformat=\"{\"2\":8705,\"3\":{\"1\":0},\"12\":0,\"16\":12}\">#LI-MM</span></p><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"Mexico",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Core Engineering",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-01-13T00:00:00",
+            "open_date":"2023-01-13T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/17621248/software-engineer-ios-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/17621248/software-engineer-ios-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12114720,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.",
+            "job_title_snippet":"<b>Software Engineer</b>, Android",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/113682476330558150",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"Mexico City",
+                  "state":"CDMX",
+                  "zip":null,
+                  "country":"MX",
+                  "address":"Mexico City, CDMX, Mexico",
+                  "location":[
+                     -99.133208,
+                     19.4326077
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":17621249,
+            "xc_id":3142,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2452616",
+            "ats_portalid":"xcloud",
+            "clientid":"3142",
+            "language":"en-US",
+            "title":"Software Engineer, Android",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"Mexico City",
+            "primary_state":"Distrito Federal",
+            "primary_zip":null,
+            "primary_country":"MX",
+            "primary_address":null,
+            "primary_location":[
+               -99.1332,
+               19.4326
+            ],
+            "addtnl_locations":[
+
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">We are looking for a passionate talented Android Engineer to help us build the application that allows them to find something inspiring every time they open the app. You will specialize in building elegant product features with cutting-edge technology.</span></p>\r\n<p><strong>What you’ll do:</strong></p>\r\n<p> </p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build product features to make Pinterest homefeed useful, fast and easy to use</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Knit across teams by collaborating with Product managers and designers and other functions to build a holistic experience that’s right for all Pinners</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Prototype new experiences for pinners to drive key metrics</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Analyze and visualize data to drive product insights and to inform our decisions</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Contribute best-in-class programming skills to develop highly innovative consumer-facing mobile products</span></li>\r\n</ul>\r\n<p><strong>What we’re looking for:</strong></p>\r\n<p> </p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Deep understanding of Android development and best practices in Java or Kotlin</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Knowledge on multi-threading, logging, memory management, caching and builds on Android</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Expertise in developing and debugging across a diverse service stack including storage and data solutions</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Demonstrated track record of improving software quality with stable releases</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience on platform teams/initiatives, driving technology adoption across feature teams</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Keeps up to date with new technologies to understand what should be incorporated </span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong collaboration and communication skills</span></li>\r\n</ul>\r\n<p><!-- x-tinymce/html -->This position is not eligible for relocation assistance and candidates that apply should be based and legally authorized to work in Mexico.</p>\r\n<p>#LI-REMOTE</p>\r\n<p><span data-sheets-value=\"{\"1\":2,\"2\":\"#LI-MM\"}\" data-sheets-userformat=\"{\"2\":8705,\"3\":{\"1\":0},\"12\":0,\"16\":12}\">#LI-MM</span></p><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"Mexico",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Core Engineering",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-01-13T00:00:00",
+            "open_date":"2023-01-13T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/17621249/software-engineer-android-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/17621249/software-engineer-android-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12114720,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.",
+            "job_title_snippet":"Fullstack Web Engineer",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/117435917976642246",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"Warsaw",
+                  "state":"Masovian Voivodeship",
+                  "zip":null,
+                  "country":"PL",
+                  "address":"Warsaw, Poland",
+                  "location":[
+                     21.0122287,
+                     52.2296756
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":17964004,
+            "xc_id":3216,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2482292",
+            "ats_portalid":"xcloud",
+            "clientid":"3216",
+            "language":"en-US",
+            "title":"Fullstack Web Engineer",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"Warsaw",
+            "primary_state":"Mazowieckie",
+            "primary_zip":null,
+            "primary_country":"PL",
+            "primary_address":null,
+            "primary_location":[
+               21.0122,
+               52.2297
+            ],
+            "addtnl_locations":[
+
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><strong>What you’ll do</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><strong>Impact & Mission. </strong><span style=\"font-weight: 400;\">Join a small team that works to implement a wide range of techniques to deliver value for Pinners and Creators </span></li>\r\n<li style=\"font-weight: 400;\"><strong>Fast iterations</strong><span style=\"font-weight: 400;\">. Prototype through fast iteration to explore various opportunities for all of Pinterest’s global Pinners and Creators.</span></li>\r\n<li style=\"font-weight: 400;\"><strong>Collaboration</strong><span style=\"font-weight: 400;\">. Integrate with many other internal engineering teams across Pinterest to support the end-to-end user journeys. Work in dynamic and diverse environments alongside engineering (closely with iOS/Android teams), products and designers. Evangelization across engineering to implement and adopt best practices to simplify our codebase and promote growth</span></li>\r\n<li style=\"font-weight: 400;\"><strong>Ownership</strong><span style=\"font-weight: 400;\">. Take ownership of product quality and release processes to deliver high quality user experiences.</span></li>\r\n<li style=\"font-weight: 400;\"><strong>Feature Development. </strong><span style=\"font-weight: 400;\">Work across all parts of the stack and be flexible working with different technologies. Adding a new functionality on both the backend and Web sides to bring the value for millions of users</span></li>\r\n<li style=\"font-weight: 400;\"><strong>Pinterest Video Actionability. </strong><span style=\"font-weight: 400;\">To bring the maximum contribution by developing features that increase our video actionability for Pinners around the world</span></li>\r\n</ul>\r\n<p> </p>\r\n<p><strong>What we’re looking for</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">3+ years of full stack development (Web/Mobile Web) building successful products and/or systems, preferably on customer-facing products.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Proficiency in common backend tech stacks for RESTful API, storage, caching and data processing.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience/familiarity with Javascript, Python, React, GraphQL, mysql, bash/scripting or similar</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong command of SQL-like query languages to be used for processing data and automated workflows</span><span style=\"font-weight: 400;\">.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Self-driven and openness to learn quickly, explore, flexibility without being afraid to dig deep</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong communication skills and great product intuition</span><span style=\"font-weight: 400;\">.</span></li>\r\n</ul>\r\n<p>This position is not eligible for relocation assistance.</p>\r\n<p> </p>\r\n<p>#LI-HYBRID</p>\r\n<p>#LI-DL2</p><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"Poland",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Core Engineering",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-02-17T00:00:00",
+            "open_date":"2023-02-17T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/17964004/fullstack-web-engineer-warsaw-pl/",
+            "seo_url":"https://www.pinterestcareers.com/job/17964004/fullstack-web-engineer-warsaw-pl/",
+            "location_type":null,
+            "importance":0.0,
+            "commute":null,
+            "freshness":12165120,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"We are seeking a motivated Release Engineer eager to own and improve the release operations within Pinterest’s Business Interfaces and Growth organization. You’ll be managing releases across the org (frontend, backend and mobile) with your primary focus on Ads Manager, the primary web interface advertisers use when advertising on Pinterest.",
+            "job_title_snippet":"Release Engineer II",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/128750883690160838",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"Mexico City",
+                  "state":"CDMX",
+                  "zip":null,
+                  "country":"MX",
+                  "address":"Mexico City, CDMX, Mexico",
+                  "location":[
+                     -99.133208,
+                     19.4326077
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":18567794,
+            "xc_id":3367,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2526304",
+            "ats_portalid":"xcloud",
+            "clientid":"3367",
+            "language":"en-US",
+            "title":"Release Engineer II",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"Mexico City",
+            "primary_state":null,
+            "primary_zip":null,
+            "primary_country":"MX",
+            "primary_address":null,
+            "primary_location":[
+               0.0,
+               0.0
+            ],
+            "addtnl_locations":[
+
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p>Only open to candidates who are authorized to work in Mexico and can be remote supporting our Mexico City Office. </p>\r\n<p>We are seeking a motivated Release Engineer eager to own and improve the release operations within Pinterest’s Business Interfaces and Growth organization. You’ll be managing releases across the org (frontend, backend and mobile) with your primary focus on Ads Manager, the primary web interface advertisers use when advertising on Pinterest.</p>\r\n<p>What you’ll do:</p>\r\n<ul>\r\n<li>\r\n<p>Work hands-on to ensure regular and high quality deployment of services within the Business Interfaces and Growth organization.</p>\r\n</li>\r\n<li>\r\n<p>Own and improve the tools and processes for release management. In particular, our Spinnaker CI/CD pipelines.</p>\r\n</li>\r\n<li>\r\n<p>Work across teams and organizations to quickly unblock releases while holding a high bar for quality</p>\r\n</li>\r\n<li>\r\n<p>Conduct root cause analysis for releases blocking issues as well as remediation tasks to prevent future blocks</p>\r\n</li>\r\n<li>\r\n<p>Create and present useful insights and analytics that improve efficiency of our deploys</p>\r\n</li>\r\n</ul>\r\n<p><strong> </strong></p>\r\n<p>What we’re looking for:</p>\r\n<ul>\r\n<li>\r\n<p>2+ years experience managing continuous user facing release, e.g., web or mobile</p>\r\n</li>\r\n<li>\r\n<p>Excellent communication with experience collaborating across teams</p>\r\n</li>\r\n<li>\r\n<p>Interest in creating process as well as building release pipelines</p>\r\n</li>\r\n<li>\r\n<p>Experience using tools of release and quality: Jira, SQL, Spinnaker, Git, Jenkins, Buildkite</p>\r\n</li>\r\n<li>\r\n<p>Comfortable writing scripts in Python, Bash, Javascript to automate releases</p>\r\n</li>\r\n</ul>\r\n<p> </p>\r\n<p><!-- x-tinymce/html -->This position is not eligible for relocation assistance and candidates that apply should be based and legally authorized to work in Mexico.</p>\r\n<p>Visit our <a href=\"https://www.pinterestcareers.com/pinflex/\">PinFlex</a> page to learn more about our working model.<br><br></p>\r\n<p>#LI-REMOTE<br>#LI-JE2</p><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"Mexico",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Monetization",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-04-18T00:00:00",
+            "open_date":"2023-04-18T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/18567794/release-engineer-ii-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/18567794/release-engineer-ii-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12251520,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.",
+            "job_title_snippet":"<b>Software Engineer</b>, Fullstack",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/77653679311594182",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"Mexico City",
+                  "state":"CDMX",
+                  "zip":null,
+                  "country":"MX",
+                  "address":"Mexico City, CDMX, Mexico",
+                  "location":[
+                     -99.133208,
+                     19.4326077
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":17621247,
+            "xc_id":3144,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2451943",
+            "ats_portalid":"xcloud",
+            "clientid":"3144",
+            "language":"en-US",
+            "title":"Software Engineer, Fullstack",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"Mexico City",
+            "primary_state":"Distrito Federal",
+            "primary_zip":null,
+            "primary_country":"MX",
+            "primary_address":null,
+            "primary_location":[
+               -99.1332,
+               19.4326
+            ],
+            "addtnl_locations":[
+
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">We’re looking for a full-stack engineer to join our Ads Engineering team. You will be joining a team responsible for several critical surfaces that guide the user to advertise on Pinterest. The ideal candidate should have a technical background and is willing to learn new technologies and methodologies and have a passion for product quality and building systems to ship high quality releases.</span></p>\r\n<p><strong>What you’ll do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build impactful features within Pinterest’s Ads Manager that reach thousands of advertisers</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Work with Design, Product, Engineering, and other XFN stakeholders to launch features from conception</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Participate in Scrum team meetings reporting overall progress and flagging blockers</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Help collaborate and design new product experiments that could potentially be build by the team</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Use data to drive decisions and define success</span></li>\r\n</ul>\r\n<p><strong>What we’re looking for:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Deep understanding of Web and API development and best practices </span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong technical background and understanding of at least one programming language. Python/Javascript preferred</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Knowledge on cpu usage, logging, memory management, caching and builds on Web/API</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Expertise in developing and debugging across a diverse service stack including storage and data solutions</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Demonstrated track record of improving software quality with stable deploys</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience on platform teams/initiatives, driving technology adoption across feature teams</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Keeps up to date with new technologies to understand what should be incorporated </span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong collaboration and communication skills</span></li>\r\n</ul>\r\n<p><!-- x-tinymce/html -->This position is not eligible for relocation assistance and candidates that apply should be based and legally authorized to work in Mexico.</p>\r\n<p>#LI-REMOTE</p>\r\n<p><span data-sheets-value=\"{\"1\":2,\"2\":\"#LI-MM\"}\" data-sheets-userformat=\"{\"2\":8705,\"3\":{\"1\":0},\"12\":0,\"16\":12}\">#LI-MM</span></p><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"Mexico",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Monetization",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-01-13T00:00:00",
+            "open_date":"2023-01-13T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/17621247/software-engineer-fullstack-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/17621247/software-engineer-fullstack-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12114720,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"We are looking for inquisitive, well-rounded Full-stack engineers to join our engineering teams. Working closely with product managers, designers, and backend engineers, you’ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks & features. You will empower both developers and Pinners alike. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.",
+            "job_title_snippet":"<b>Software Engineer</b>, Fullstack",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/80119918990631622",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               },
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":17766819,
+            "xc_id":3175,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2468288",
+            "ats_portalid":"xcloud",
+            "clientid":"3175",
+            "language":"en-US",
+            "title":"Software Engineer, Fullstack",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"San Francisco",
+            "primary_state":"CA",
+            "primary_zip":null,
+            "primary_country":"US",
+            "primary_address":null,
+            "primary_location":[
+               -122.419,
+               37.7749
+            ],
+            "addtnl_locations":[
+               {
+                  "addtnl_city":"Remote",
+                  "addtnl_state":"CA",
+                  "addtnl_zip":null,
+                  "addtnl_country":"US",
+                  "addtnl_address":null,
+                  "addtnl_location":[
+                     -119.418,
+                     36.7783
+                  ]
+               }
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">We are looking for inquisitive, well-rounded Full-stack engineers to join our engineering teams. Working closely with product managers, designers, and backend engineers, you’ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks & features. You will empower both developers and Pinners alike. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.</span></p>\r\n<p> </p>\r\n<p><strong>What you’ll do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build out full-stack Pinner-facing features to power the future of inspiration on Pinterest</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Partner with design, product, and backend teams to build end-to-end functionality</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Put on your Pinner hat to suggest new product ideas and features</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features you develop</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Grow as an engineer by working with world-class peers on varied and high impact projects</span></li>\r\n</ul>\r\n<p> </p>\r\n<p><strong>What we’re looking for:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">2+ years of industry full-stack development experience, building consumer or business facing products</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Proficiency in one or more common backend and frontend tech stacks: e.g. Javascript, React, API, storage, caching and data processing.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience in following best practices in writing reliable and maintainable code that may be used by many other engineers</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ability to keep up-to-date with new technologies to understand what should be incorporated</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong collaboration and communication skills</span></li>\r\n</ul>\r\n<p> </p>\r\n<p><strong>Full-stack Monetization Engineering teams:</strong></p>\r\n<p>Business Interfaces & Growth</p>\r\n<p> </p>\r\n<p><span style=\"font-weight: 400;\">This position is not eligible for relocation assistance.</span></p>\r\n<p> </p>\r\n<p><span style=\"font-weight: 400;\">At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. This position will pay a base salary of $145,700 to $258,700. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.</span></p>\r\n<p><span style=\"font-weight: 400;\">Information regarding the culture at Pinterest and benefits available for this position can be found at </span><a href=\"https://www.pinterestcareers.com/pinterest-life/\"><span style=\"font-weight: 400;\">https://www.pinterestcareers.com/pinterest-life/</span></a><span style=\"font-weight: 400;\">.</span></p>\r\n<p>#LI-CN1</p>\r\n<p>#LI-REMOTE</p><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"United States",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Engineering (L2)",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-02-02T00:00:00",
+            "open_date":"2023-02-02T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/17766819/software-engineer-fullstack-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/17766819/software-engineer-fullstack-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12143520,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"Pinterest is one of the fastest growing online advertising platforms and our continued success depends on rapidly scaling our core revenue-generating systems. Specifically, we need 10X the scale of our campaign management, ad delivery, and machine learning platforms, while enabling developers inside Pinterest and external advertisers to build and iterate rapidly on new features. We are looking for multiple staff engineers to initiate, design, and build the next-gen version of key infra components in our monetization ecosystem, such as modernizing an end-to-end ML platform serving over hundreds of use cases making billions of predictions per second, and redesigning our catalog ingestion and ads delivery systems to become one of the leading advertising platforms in the world. These roles are exciting, because you will be able to lean on your deep infra knowledge to redesign systems to handle a much bigger scale, while also having the chance to work with very experienced engineers and cross-functional partners.",
+            "job_title_snippet":"Staff <b>Software Engineer</b>, Ads Infra",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/103345829743338182",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               },
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":18475631,
+            "xc_id":3358,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2553533",
+            "ats_portalid":"xcloud",
+            "clientid":"3358",
+            "language":"en-US",
+            "title":"Staff Software Engineer, Ads Infra",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"San Francisco",
+            "primary_state":"CA",
+            "primary_zip":null,
+            "primary_country":"US",
+            "primary_address":null,
+            "primary_location":[
+               -122.419,
+               37.7749
+            ],
+            "addtnl_locations":[
+               {
+                  "addtnl_city":"Remote",
+                  "addtnl_state":"CA",
+                  "addtnl_zip":null,
+                  "addtnl_country":"US",
+                  "addtnl_address":null,
+                  "addtnl_location":[
+                     -119.418,
+                     36.7783
+                  ]
+               }
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">Pinterest is one of the fastest growing online advertising platforms and our continued success depends on rapidly scaling our core revenue-generating systems. Specifically, we need 10X the scale of our campaign management, ad delivery, and machine learning platforms, while enabling developers inside Pinterest and external advertisers to build and iterate rapidly on new features. We are looking for multiple staff engineers to initiate, design, and build the next-gen version of key infra components in our monetization ecosystem, such as modernizing an end-to-end ML platform serving over hundreds of use cases making billions of predictions per second, and redesigning our catalog ingestion and ads delivery systems to become one of the leading advertising platforms in the world. These roles are exciting, because you will be able to lean on your deep infra knowledge to redesign systems to handle a much bigger scale, while also having the chance to work with very experienced engineers and cross-functional partners.</span></p>\r\n<p><strong>What you'll do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Re-architect core catalog, ads indexing and serving infrastructure to achieve greater scalability, freshness, performance, and reliability, using data storage, streaming processing, and information retrieval technologies such as MySQL, TiDB, Flink, and HNSW.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Modernize the ML ecosystem for the entire Pinterest Ads product, replacing a hodgepodge of out-of-date ML models with a unified, modern, and privacy-first ML stack with Pytorch, Spark, Iceberg, and GPU based serving.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Collaborate with cross-functional teams to define problems and drive solutions.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Work with a strong team of engineers and provide technical guidance and mentorship.</span></li>\r\n</ul>\r\n<p><strong>What we're looking for:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">6+ years of relevant industry experience with distributed systems, transactional datastores, and systems programming.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience in building and owning large scale high performance infrastructure powering ads, recommendation, search, or other consumer facing applications.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience solving end-user problems and envisioning solutions to improve their productivity.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Proficiency in Java, C++, or Python.</span></li>\r\n</ul>\r\n<p>This position is not eligible for relocation assistance.</p>\r\n<p>#LI-CL5 </p>\r\n<p>#LI-REMOTE</p><div class=\"content-pay-transparency\"><p><p>At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.</p>\r\n<p><em><span style=\"font-weight: 400;\">Information regarding the culture at Pinterest and benefits available for this position can be found <a href=\"https://www.pinterestcareers.com/pinterest-life/\" target=\"_blank\" rel=\"noopener\">here</a>.</span></em></p></p><p class=\"title\">US based applicants only</p><div class=\"pay-range\"><span>$207,500</span><span class=\"divider\">—</span><span>$311,200 USD</span></div></div><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"United States",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Monetization",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-05-25T00:00:00",
+            "open_date":"2023-05-25T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/18475631/staff-software-engineer-ads-infra-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/18475631/staff-software-engineer-ads-infra-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12304800,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"Pinterest helps more than 450 million people discover new ideas to help design their life. Our users come to Pinterest to explore ideas and run more than 6 billion search queries every month. Many of these queries represent exploratory search intent and are broad, which means that the search system should be able to deeply understand this intent, and then help people explore content, personalize results, harness visual signals effectively, and show the most engaging content up front. In addition, the team also owns query refinements and modules that help Pinners narrow their search intent from broad exploratory queries, to help them narrow their results down. All of this means that Pinterest search presents a unique challenge quite unlike other search systems and the opportunity to innovate on a product that only Pinterest can build.",
+            "job_title_snippet":"Senior Engineering Manager, Search Relevance",
+            "search_text_snippet":"5+ years of experience in leading/managing a highly impactful ML-based engineering team of 20+ size; 12+ years of <b>software development</b> experience. This position is not eligible for relocation ..."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/128133387383644870",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "MANAGEMENT",
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               },
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":18368870,
+            "xc_id":3334,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2530812",
+            "ats_portalid":"xcloud",
+            "clientid":"3334",
+            "language":"en-US",
+            "title":"Senior Engineering Manager, Search Relevance",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"San Francisco",
+            "primary_state":"CA",
+            "primary_zip":null,
+            "primary_country":"US",
+            "primary_address":null,
+            "primary_location":[
+               -122.419,
+               37.7749
+            ],
+            "addtnl_locations":[
+               {
+                  "addtnl_city":"Remote",
+                  "addtnl_state":"CA",
+                  "addtnl_zip":null,
+                  "addtnl_country":"US",
+                  "addtnl_address":null,
+                  "addtnl_location":[
+                     -119.418,
+                     36.7783
+                  ]
+               }
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\"><strong>About the Role</strong></span></p>\r\n<p><span style=\"font-weight: 400;\">Pinterest helps more than 450 million people discover new ideas to help design their life. Our users come to Pinterest to explore ideas and run more than 6 billion search queries every month. Many of these queries represent exploratory search intent and are broad, which means that the search system should be able to deeply understand this intent, and then help people explore content, personalize results, harness visual signals effectively, and show the most engaging content up front. In addition, the team also owns query refinements and modules that help Pinners narrow their search intent from broad exploratory queries, to help them narrow their results down. All of this means that Pinterest search presents a unique challenge quite unlike other search systems and the opportunity to innovate on a product that only Pinterest can build. </span></p>\r\n<p><span style=\"font-weight: 400;\">We are looking for an exceptional senior engineering manager to help lead the search machine learning teams.</span></p>\r\n<p><strong>What you will do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">The candidate will be responsible for major areas of the search engine for more than 450 million monthly active Pinterest users, including indexing and document ranking, query and content understanding, personalization, ML based retrieval, shopping, videos, as well as infrastructure efficiency and scalability. In addition, the candidate will work on innovative applications of NLP and other techniques to drive query recommendations, autocompletions, and query based module generation and ranking.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Work closely with the other engineering teams in Pinterest to bring superior search experience to our users, such as Search Product, Infrastructure, research and content signals.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Deeply understand the Pinterest search product, and drive the vision for the team.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Provide visibility for senior leadership into the team’s global impact.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Partner with stakeholders to expand impact across the company, including product management, data scientists and design. </span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Mentor and grow managers, leaders and engineers on the team.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build a culture of excellence and expertise.</span></li>\r\n</ul>\r\n<p><strong>What we are looking for:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience leading and working on a large-scale production search, recommendation or ads systems that are based on state-of-the-art machine learning and big data technology.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Applied machine learning experience is strongly preferred. Experience in related fields such as recommendation systems, natural language processing and computer vision is a bonus.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ability to drive the roadmap and directions of scalable production quality systems end-to-end.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">A knack for product and impact on users of a consumer product. </span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">5+ years of experience in leading/managing a highly impactful ML-based engineering team of 20+ size; 12+ years of software development experience.</span></li>\r\n</ul>\r\n<p> </p>\r\n<p>This position is not eligible for relocation assistance.</p>\r\n<p> </p>\r\n<p>#LI-REMOTE <span data-sheets-value=\"{\"1\":2,\"2\":\"#LI-AK7\"}\" data-sheets-userformat=\"{\"2\":8705,\"3\":{\"1\":0},\"12\":0,\"16\":12}\">#LI-AK7</span></p><div class=\"content-pay-transparency\"><p><p>At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.</p>\r\n<p><em><span style=\"font-weight: 400;\">Information regarding the culture at Pinterest and benefits available for this position can be found <a href=\"https://www.pinterestcareers.com/pinterest-life/\" target=\"_blank\" rel=\"noopener\">here</a>.</span></em></p></p><p class=\"title\">US based applicants only</p><div class=\"pay-range\"><span>$158,950</span><span class=\"divider\">—</span><span>$327,000 USD</span></div></div><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"United States",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Core Engineering",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-04-24T00:00:00",
+            "open_date":"2023-04-24T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/18368870/senior-engineering-manager-search-relevance-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/18368870/senior-engineering-manager-search-relevance-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12260160,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.",
+            "job_title_snippet":"Software Quality Engineer in Test, iOS",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/131380674314543814",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"Mexico City",
+                  "state":"CDMX",
+                  "zip":null,
+                  "country":"MX",
+                  "address":"Mexico City, CDMX, Mexico",
+                  "location":[
+                     -99.133208,
+                     19.4326077
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":18452001,
+            "xc_id":3354,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2550364",
+            "ats_portalid":"xcloud",
+            "clientid":"3354",
+            "language":"en-US",
+            "title":"Software Quality Engineer in Test, iOS",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"Mexico City",
+            "primary_state":null,
+            "primary_zip":null,
+            "primary_country":"MX",
+            "primary_address":null,
+            "primary_location":[
+               0.0,
+               0.0
+            ],
+            "addtnl_locations":[
+
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><strong>What you’ll do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Collaborate with engineers and teams to improve test coverage, release velocity and subsequently production health</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Design, code, and implement test cases and integrate with the automation suite</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Create, maintain, and execute functional, regression, and exploratory tests</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Proactively identify, track, reproduce, and triage bugs through resolution</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Provide test case coverage and defect metrics for substantiating release decisions</span></li>\r\n</ul>\r\n<p><strong>What we’re looking for: </strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">iOS Engineers with an excellent product quality sense </span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong problem-solving skills, and ability to think creatively while ensuring processes and procedures are properly followed</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience either in Objective-C or Swift</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Familiarity with Earl Grey framework or </span><span style=\"font-weight: 400;\">OCMock framework </span><span style=\"font-weight: 400;\">is a plus</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Excellent verbal and writing skills; ability to produce clear, concise communications and documentation</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Highly effective at working in cross-functional groups and getting results in matrix organizations</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Excellent time management skills and ability to work on concurrent assignments with different priorities</span></li>\r\n</ul>\r\n<p> </p>\r\n<p>This position is not eligible for relocation assistance.</p>\r\n<p>#LI-REMOTE</p>\r\n<p><span data-sheets-value=\"{\"1\":2,\"2\":\"#LI-MM\"}\" data-sheets-userformat=\"{\"2\":8705,\"3\":{\"1\":0},\"12\":0,\"16\":12}\">#LI-MM</span></p><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"Mexico",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Engineering (L2)",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-05-22T00:00:00",
+            "open_date":"2023-05-22T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/18452001/software-quality-engineer-in-test-ios-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/18452001/software-quality-engineer-in-test-ios-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12300480,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.",
+            "job_title_snippet":"Software Quality Engineer in Test, Android",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/86813069994271430",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"Mexico City",
+                  "state":"CDMX",
+                  "zip":null,
+                  "country":"MX",
+                  "address":"Mexico City, CDMX, Mexico",
+                  "location":[
+                     -99.133208,
+                     19.4326077
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":18452000,
+            "xc_id":3355,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2550333",
+            "ats_portalid":"xcloud",
+            "clientid":"3355",
+            "language":"en-US",
+            "title":"Software Quality Engineer in Test, Android",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"Mexico City",
+            "primary_state":null,
+            "primary_zip":null,
+            "primary_country":"MX",
+            "primary_address":null,
+            "primary_location":[
+               0.0,
+               0.0
+            ],
+            "addtnl_locations":[
+
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><strong>What you’ll do:</strong></p>\r\n<ul>\r\n<li>Collaborate with engineers and teams to improve test coverage, release velocity, and subsequently production health</li>\r\n<li>Design, code, and implement test cases and integrate with the automation suite</li>\r\n<li>Create, maintain, and execute functional, regression, and exploratory tests</li>\r\n<li>Proactively identify, track, reproduce, and triage bugs through resolution</li>\r\n<li>Provide test case coverage and defect metrics for substantiating release decisions</li>\r\n</ul>\r\n<p><strong>What we’re looking for: </strong></p>\r\n<ul>\r\n<li>Android Engineers with an excellent product quality sense</li>\r\n<li>Strong problem-solving skills, and ability to think creatively while ensuring processes and procedures are properly followed</li>\r\n<li>Experience either in Java or Kotlin</li>\r\n<li>Experience with Espresso or Mockito is a huge plus</li>\r\n<li>Excellent verbal and writing skills; ability to produce clear, concise communications and documentation</li>\r\n<li>Highly effective at working in cross-functional groups and getting results in matrix organizations</li>\r\n<li>Excellent time management skills and ability to work on concurrent assignments with different priorities</li>\r\n</ul>\r\n<p>This position is not eligible for relocation assistance and candidates that apply should be based and legally authorized to work in Mexico.</p>\r\n<p>#LI-REMOTE</p>\r\n<p><span data-sheets-value=\"{\"1\":2,\"2\":\"#LI-MM\"}\" data-sheets-userformat=\"{\"2\":8705,\"3\":{\"1\":0},\"12\":0,\"16\":12}\">#LI-MM</span></p><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"Mexico",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Engineering (L2)",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-05-22T00:00:00",
+            "open_date":"2023-05-22T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/18452000/software-quality-engineer-in-test-android-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/18452000/software-quality-engineer-in-test-android-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12300480,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.",
+            "job_title_snippet":"Software Quality Engineer in Test",
+            "search_text_snippet":"About Pinterest: Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/78867540148658886",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"Mexico City",
+                  "state":"CDMX",
+                  "zip":null,
+                  "country":"MX",
+                  "address":"Mexico City, CDMX, Mexico",
+                  "location":[
+                     -99.133208,
+                     19.4326077
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":17621246,
+            "xc_id":3145,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2451929",
+            "ats_portalid":"xcloud",
+            "clientid":"3145",
+            "language":"en-US",
+            "title":"Software Quality Engineer in Test",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"Mexico City",
+            "primary_state":"Distrito Federal",
+            "primary_zip":null,
+            "primary_country":"MX",
+            "primary_address":null,
+            "primary_location":[
+               -99.1332,
+               19.4326
+            ],
+            "addtnl_locations":[
+
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><strong>What you’ll do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Collaborate with engineers and teams to improve test coverage, release velocity and subsequently production health</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Design, code, and implement test cases and integrate with automation suite</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Create, maintain, and execute functional, regression, and exploratory tests</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Proactively identify, track, reproduce, and triage bugs through resolution</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Provide test case coverage and defect metrics for substantiating release decisions</span></li>\r\n</ul>\r\n<p><strong>What we’re looking for:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Quality expert with an excellent product quality sense and experience working closely with mobile and web client development teams</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong problem-solving skills, and ability to think creatively while ensuring processes and procedures are properly followed</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience in one of the following: </span><span style=\"font-weight: 400;\">Python</span><strong>, </strong><span style=\"font-weight: 400;\">JavaScript or Java</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience automating end to end UI tests for mobile, and/or web apps. </span></li>\r\n<li style=\"font-weight: 400;\">Experience with API automation is a huge plus.</li>\r\n<li style=\"font-weight: 400;\">Familiarity with Cypress, Espresso, XCUItest is desired</li>\r\n<li style=\"font-weight: 400;\">Excellent verbal and writing skills; ability to produce clear, concise communications and documentation</li>\r\n<li style=\"font-weight: 400;\">Highly effective at working in cross-functional groups and getting results in matrix organizations</li>\r\n<li style=\"font-weight: 400;\">Excellent time management skills and ability to work on concurrent assignments with different priorities</li>\r\n</ul>\r\n<p><!-- x-tinymce/html -->This position is not eligible for relocation assistance and candidates that apply should be based and legally authorized to work in Mexico.</p>\r\n<p>#LI-REMOTE</p>\r\n<p><span data-sheets-value=\"{\"1\":2,\"2\":\"#LI-MM\"}\" data-sheets-userformat=\"{\"2\":8705,\"3\":{\"1\":0},\"12\":0,\"16\":12}\">#LI-MM</span></p><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"Mexico",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Core Engineering",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-01-13T00:00:00",
+            "open_date":"2023-01-13T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/17621246/software-quality-engineer-in-test-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/17621246/software-quality-engineer-in-test-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12114720,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.",
+            "job_title_snippet":"Staff Machine Learning Engineer, Ads Marketplace",
+            "search_text_snippet":"MS or PhD degree in Computer Science, Statistics or related field; 8+ years of industry experience; 2+ years of experience leading projects/teams; Strong <b>software engineering</b> and mathematical ..."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/116358243304776390",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "SCIENCE_AND_ENGINEERING",
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               },
+               {
+                  "city":"Palo Alto",
+                  "state":"CA",
+                  "zip":null,
+                  "country":"US",
+                  "address":"Palo Alto, CA, USA",
+                  "location":[
+                     -122.1430195,
+                     37.4418834
+                  ]
+               },
+               {
+                  "city":"Seattle",
+                  "state":"WA",
+                  "zip":null,
+                  "country":"US",
+                  "address":"Seattle, WA, USA",
+                  "location":[
+                     -122.3320708,
+                     47.6062095
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":18525350,
+            "xc_id":3366,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2550213",
+            "ats_portalid":"xcloud",
+            "clientid":"3366",
+            "language":"en-US",
+            "title":"Staff Machine Learning Engineer, Ads Marketplace",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"San Francisco",
+            "primary_state":"CA",
+            "primary_zip":null,
+            "primary_country":"US",
+            "primary_address":null,
+            "primary_location":[
+               -122.419,
+               37.7749
+            ],
+            "addtnl_locations":[
+               {
+                  "addtnl_city":"Palo Alto",
+                  "addtnl_state":"CA",
+                  "addtnl_zip":null,
+                  "addtnl_country":"US",
+                  "addtnl_address":null,
+                  "addtnl_location":[
+                     -122.143,
+                     37.4419
+                  ]
+               },
+               {
+                  "addtnl_city":"Seattle",
+                  "addtnl_state":"WA",
+                  "addtnl_zip":null,
+                  "addtnl_country":"US",
+                  "addtnl_address":null,
+                  "addtnl_location":[
+                     -122.332,
+                     47.6062
+                  ]
+               }
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">Within the Ads Quality team, Ad's Marketplace connects the dots between the aspirations of pinners and the products offered by our partners. </span><span style=\"font-weight: 400;\">The ideal candidate is a strong Economist that understands market design concepts and has the engineering skills to bring them to market. We are looking for an economist who can get their hands dirty and work side by side with other engineers, to advance the efficiency of the Pinterest Marketplace.</span></p>\r\n<p><span style=\"font-weight: 400;\">In this role, you will be responsible for developing and executing a vision for the evolution of the Pinterest marketplace. You will design and implement systems that improve the ads delivery funnel, experiments that shape the utility function, auction mechanism design, ad allocation and for deriving new insights through analysis of the marketplace dynamics. In short, this is a unique position, where you’ll get the freedom to work to bring together pinners and partners in this unique marketplace.</span></p>\r\n<p><strong>What you’ll do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Develop statistical models and systems aimed at improving the marketplace design and operations to maximize value for the Pinners, Partners and Pinterest. This includes engineering solutions for tuning marketplace parameters in the utility function, optimizing ad diversity and ad load across the Pinterest product, auction implementation as well as modeling long-term marketplace effects to minimize ad blindness and maximize advertiser satisfaction.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build and improve backend systems and statistical models that underlay the marketplace to maximize value for Pinners, Partners and Pinterest.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Define and implement experiments to understand long term Marketplace effects</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Develop strategies to balance long and short term business objectives.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Drive multi-functional collaboration with peers and partners across the company to improve knowledge of marketplace design and operations.</span></li>\r\n</ul>\r\n<p><strong>What we’re looking for:</strong></p>\r\n<ul>\r\n<li><span style=\"font-weight: 400;\">MS or PhD degree in Computer Science, Statistics or related field</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">8+ years of industry experience</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">2+ years of experience leading projects/teams</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong software engineering and mathematical skills with knowledge of statistical methods</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Hands-on experience with large-scale online e-commerce systems is a plus</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Background in computational advertising is preferred, but not required</span></li>\r\n</ul>\r\n<p>This position is not eligible for relocation assistance.</p>\r\n<p>#LI-SM-4</p>\r\n<p>#LI-HYBRID</p><div class=\"content-pay-transparency\"><p><p>At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.</p>\r\n<p><em><span style=\"font-weight: 400;\">Information regarding the culture at Pinterest and benefits available for this position can be found <a href=\"https://www.pinterestcareers.com/pinterest-life/\" target=\"_blank\" rel=\"noopener\">here</a>.</span></em></p></p><p class=\"title\">US based applicants only</p><div class=\"pay-range\"><span>$159,000</span><span class=\"divider\">—</span><span>$278,000 USD</span></div></div><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"United States",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Monetization",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-05-22T00:00:00",
+            "open_date":"2023-05-22T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/18525350/staff-machine-learning-engineer-ads-marketplace-san-francisco-ca/",
+            "seo_url":"https://www.pinterestcareers.com/job/18525350/staff-machine-learning-engineer-ads-marketplace-san-francisco-ca/",
+            "location_type":null,
+            "importance":0.0,
+            "commute":null,
+            "freshness":12300480,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"The Trust & Safety team is dedicated to ensuring that all Pinners have a safe experience on Pinterest. As Manager II, Machine Learning Engineering, you will be responsible for building and leading a team focused on enabling a scaled approach to understanding existing gaps in the coverage of our safety systems and the detection of new unsafe trends.",
+            "job_title_snippet":"Manager II, Machine Learning Engineering",
+            "search_text_snippet":"Proven success launching complex <b>software development</b> projects that deliver high-impact outcomes. Curiosity for leveraging data and metrics to identify challenging opportunities and build ..."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/135032401001620166",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "MANAGEMENT"
+            ],
+            "google_locations":[
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               },
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":18398486,
+            "xc_id":3326,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2515062",
+            "ats_portalid":"xcloud",
+            "clientid":"3326",
+            "language":"en-US",
+            "title":"Manager II, Machine Learning Engineering",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"San Francisco",
+            "primary_state":"CA",
+            "primary_zip":null,
+            "primary_country":"US",
+            "primary_address":null,
+            "primary_location":[
+               -122.419,
+               37.7749
+            ],
+            "addtnl_locations":[
+               {
+                  "addtnl_city":"Remote",
+                  "addtnl_state":"CA",
+                  "addtnl_zip":null,
+                  "addtnl_country":"US",
+                  "addtnl_address":null,
+                  "addtnl_location":[
+                     -119.418,
+                     36.7783
+                  ]
+               }
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">The Trust & Safety team is dedicated to ensuring that all Pinners have a safe experience on Pinterest. As Manager II, Machine Learning Engineering, you will be responsible for building and leading a team focused on enabling a scaled approach to understanding existing gaps in the coverage of our safety systems and the detection of new unsafe trends.</span></p>\r\n<p><strong>What you’ll do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Define the scope of the Pinterest Surveillance team and the required skills.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Grow the team's capabilities through career development of the current engineers and strategic hiring.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Facilitate and enables a high performance team culture.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build a platform to perform internal safety surveillance at scale.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Collaborate with other companies across the industry to share resources and best practices.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Work with 3rd party surveillance vendors to augment our internal surveillance.</span></li>\r\n</ul>\r\n<p><strong>What we’re looking for:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience managing or leading a team that has performed internal safety surveillance at scale.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong people development skills and software project management skills.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Proven success launching complex software development projects that deliver high-impact outcomes.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Curiosity for leveraging data and metrics to identify challenging opportunities and build impactful solutions.</span></li>\r\n</ul>\r\n<p>This position is not eligible for relocation assistance.</p>\r\n<p>#LI-REMOTE</p>\r\n<p>#LI-NB1</p><div class=\"content-pay-transparency\"><p><p>At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.</p>\r\n<p><em><span style=\"font-weight: 400;\">Information regarding the culture at Pinterest and benefits available for this position can be found <a href=\"https://www.pinterestcareers.com/pinterest-life/\" target=\"_blank\" rel=\"noopener\">here</a>.</span></em></p></p><p class=\"title\">US based applicants only</p><div class=\"pay-range\"><span>$135,150</span><span class=\"divider\">—</span><span>$278,000 USD</span></div></div><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"United States",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Core Engineering",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-03-31T00:00:00",
+            "open_date":"2023-03-31T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/18398486/manager-ii-machine-learning-engineering-remote/",
+            "seo_url":"https://www.pinterestcareers.com/job/18398486/manager-ii-machine-learning-engineering-remote/",
+            "location_type":"Remote",
+            "importance":0.0,
+            "commute":null,
+            "freshness":12225600,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"We're looking for a Data Science Manager that will help in changing the way ads have been delivered over the last 20 years, breaking models, assumptions and thinking innovatively about protecting Pinner experience while generating revenue. The team is responsible for supporting all the surfaces in the Pinterest app - Home Feed, Search, Related Pins, Shopping Surfaces, Idea Streams etc. Each of them brings its own complexity and challenges which will provide exposure to a wide variety of data science problems to solve. This person would w ork with world class data science and ML talent in building the next generation advertising products and b ecome a leader of leaders, developing a best in-class team of technical data scientists.",
+            "job_title_snippet":"Data Science Manager",
+            "search_text_snippet":"Data Scientist, ML engineer or <b>SWE</b> in Digital Ads; 6+ years of experience as a data scientist, algorithmic engineering, or machine learning; 3+ years of experience in managing and mentoring data ..."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/77220610645598918",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "SCIENCE_AND_ENGINEERING",
+               "MANAGEMENT"
+            ],
+            "google_locations":[
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":18183198,
+            "xc_id":3281,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2451386",
+            "ats_portalid":"xcloud",
+            "clientid":"3281",
+            "language":"en-US",
+            "title":"Data Science Manager",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"San Francisco",
+            "primary_state":"CA",
+            "primary_zip":null,
+            "primary_country":"US",
+            "primary_address":null,
+            "primary_location":[
+               -122.419,
+               37.7749
+            ],
+            "addtnl_locations":[
+
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">We're looking for a Data Science Manager that will help in changing the way ads have been delivered over the last 20 years, breaking models, assumptions and thinking innovatively </span><span style=\"font-weight: 400;\">about protecting Pinner experience while generating revenue. </span><span style=\"font-weight: 400;\">The team is responsible for supporting all the surfaces in the Pinterest app - Home Feed, Search, Related Pins, Shopping Surfaces, Idea Streams etc. Each of them brings its own complexity and challenges which will provide exposure to a wide variety of data science problems to solve. This person would w</span><span style=\"font-weight: 400;\">ork with world class data science and ML talent in building the next generation advertising products and b</span><span style=\"font-weight: 400;\">ecome a leader of leaders, developing a best in-class team of technical data scientists.</span></p>\r\n<p> </p>\r\n<p><strong>What will this person do?</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build, inspire and grow a high performance, responsive team of data scientists and analysts that are able to not only keep up with but also pioneer in this space</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Working with product and engineering partners help identify and answer important “why” questions. Lead the team to structure ambiguous business challenges into actionable plans. Ensure that your team is producing consistently trustworthy and high-quality technical outputs that influence the business.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Help improve the measurements, metrics and decision making framework for improvements to our ads quality stack.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Communicate complex analytical findings and insights to both technical and non-technical stakeholders in a clear and concise manner.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Continuously research and stay up-to-date with the latest developments in data science, causal inference, and advertising technology to drive innovation within the Ads Team.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Be a champion for building a highly talented and diverse team with an inclusive culture.</span></li>\r\n</ul>\r\n<p><strong>What we’re looking for:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">MS or PhD in a quantitative field such as Computer Science, Engineering, Math, Statistics, etc.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Data Scientist, ML engineer or SWE in Digital Ads </span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">6+ years of experience as a data scientist, algorithmic engineering, or machine learning</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">3+ years of experience in managing and mentoring data science, data engineering, and analytics teams in a technology company</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience with related technical areas:</span></li>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Statistical software (e.g. R, Python, MATLAB) and database languages (e.g. SQL)</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Data science models (Regression, Decision Trees, K-Means, etc.)</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience with large data sets and analytical tools, e.g. Hive, Spark</span></li>\r\n</ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Demonstrated skills in selecting the right statistical tools given a data analysis problem. Effective written and verbal communication skills.</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience with hypothesis driven product development. </span></li>\r\n</ul>\r\n<p> </p>\r\n<p>This position is not eligible for relocation assistance.</p>\r\n<p class=\"p1\">#LI-NM4</p><div class=\"content-pay-transparency\"><p><p>At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.</p>\r\n<p><em><span style=\"font-weight: 400;\">Information regarding the culture at Pinterest and benefits available for this position can be found <a href=\"https://www.pinterestcareers.com/pinterest-life/\" target=\"_blank\" rel=\"noopener\">here</a>.</span></em></p></p><p class=\"title\">US based applicants only</p><div class=\"pay-range\"><span>$135,150</span><span class=\"divider\">—</span><span>$278,000 USD</span></div></div><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"United States",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Monetization",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-01-12T00:00:00",
+            "open_date":"2023-01-12T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/18183198/data-science-manager-san-francisco-ca/",
+            "seo_url":"https://www.pinterestcareers.com/job/18183198/data-science-manager-san-francisco-ca/",
+            "location_type":null,
+            "importance":0.0,
+            "commute":null,
+            "freshness":12113280,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      },
+      {
+         "summary":{
+            "job_summary":"Within the Ads Quality team, we try to connect the dots between the aspirations of pinners and the products offered by our partners. In this role, you will be responsible for developing and executing a vision for the evolution of the Pinterest marketplace. You will design and implement systems that improve the ads delivery funnel, experiments that shape the utility function, auction mechanism design, ad allocation and for deriving new insights through analysis of the marketplace dynamics. In short, this is a unique position, where you’ll get the freedom to work to bring together pinners and partners in this unique marketplace.",
+            "job_title_snippet":"Staff Machine Learning Engineer, Ads Marketplace",
+            "search_text_snippet":"MS or PhD degree in Computer Science, Statistics or related field; 8+ years of industry experience; 2+ years of experience leading projects/teams; Strong <b>software engineering</b> and mathematical ..."
+         },
+         "job":{
+            "name":"projects/talent-cloud-jobs-prod/tenants/4f3343ee-2900-0000-0000-009477c2ccf2/jobs/77198067100459718",
+            "company_name":"Pinterest",
+            "google_categories":[
+               "SCIENCE_AND_ENGINEERING",
+               "COMPUTER_AND_IT"
+            ],
+            "google_locations":[
+               {
+                  "city":"San Francisco",
+                  "state":"CA",
+                  "zip":"94107",
+                  "country":"US",
+                  "address":"651 Brannan St #310, San Francisco, CA 94107, USA",
+                  "location":[
+                     -122.399591,
+                     37.775233
+                  ]
+               },
+               {
+                  "city":"Palo Alto",
+                  "state":"CA",
+                  "zip":null,
+                  "country":"US",
+                  "address":"Palo Alto, CA, USA",
+                  "location":[
+                     -122.1430195,
+                     37.4418834
+                  ]
+               },
+               {
+                  "city":"Seattle",
+                  "state":"WA",
+                  "zip":null,
+                  "country":"US",
+                  "address":"Seattle, WA, USA",
+                  "location":[
+                     -122.3320708,
+                     47.6062095
+                  ]
+               }
+            ],
+            "scout_orgid":2345,
+            "id":18341491,
+            "xc_id":3323,
+            "sf_id":null,
+            "entity_status":null,
+            "ref":"2520495",
+            "ats_portalid":"xcloud",
+            "clientid":"3323",
+            "language":"en-US",
+            "title":"Staff Machine Learning Engineer, Ads Marketplace",
+            "primary_category":"Engineering",
+            "addtnl_categories":[
+
+            ],
+            "primary_city":"San Francisco",
+            "primary_state":"CA",
+            "primary_zip":null,
+            "primary_country":"US",
+            "primary_address":null,
+            "primary_location":[
+               -122.419,
+               37.7749
+            ],
+            "addtnl_locations":[
+               {
+                  "addtnl_city":"Palo Alto",
+                  "addtnl_state":"CA",
+                  "addtnl_zip":null,
+                  "addtnl_country":"US",
+                  "addtnl_address":null,
+                  "addtnl_location":[
+                     -122.143,
+                     37.4419
+                  ]
+               },
+               {
+                  "addtnl_city":"Seattle",
+                  "addtnl_state":"WA",
+                  "addtnl_zip":null,
+                  "addtnl_country":"US",
+                  "addtnl_address":null,
+                  "addtnl_location":[
+                     -122.332,
+                     47.6062
+                  ]
+               }
+            ],
+            "description":"<div data-field=\"description\" class=\"jd-description\"><div class=\"content-intro\"><p><strong>About Pinterest</strong><span style=\"font-weight: 400;\">:  </span></p>\r\n<p>Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.</p>\r\n<p><em>Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our </em><a href=\"https://www.pinterestcareers.com/pinflex/\" target=\"_blank\"><em><u>PinFlex</u></em></a><em> landing page to learn more. </em></p></div><p><span style=\"font-weight: 400;\">Within the Ads Quality team, we try to connect the dots between the aspirations of pinners and the products offered by our partners. </span><span style=\"font-weight: 400;\">In this role, you will be responsible for developing and executing a vision for the evolution of the Pinterest marketplace. You will design and implement systems that improve the ads delivery funnel, experiments that shape the utility function, auction mechanism design, ad allocation and for deriving new insights through analysis of the marketplace dynamics. In short, this is a unique position, where you’ll get the freedom to work to bring together pinners and partners in this unique marketplace.</span></p>\r\n<p><strong>What you’ll do:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build and improve backend systems and statistical models that underlay the marketplace to maximize value for Pinners, Partners and Pinterest</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Define and implement experiments to understand long term Marketplace effects</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Develop strategies to balance long and short term business objectives</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Drive multi-functional collaboration with peers and partners across the company to improve knowledge of marketplace design and operations</span></li>\r\n</ul>\r\n<p><strong>What we’re looking for:</strong></p>\r\n<ul>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">MS or PhD degree in Computer Science, Statistics or related field</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">8+ years of industry experience</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">2+ years of experience leading projects/teams</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Strong software engineering and mathematical skills with knowledge of statistical methods</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Hands-on experience with large-scale online e-commerce systems is a plus</span></li>\r\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Background in computational advertising is preferred, but not required</span></li>\r\n</ul>\r\n<p>This position is not eligible for relocation assistance.</p>\r\n<p> </p>\r\n<p>#LI-SM4</p>\r\n<p>#LI-HYBRID</p><div class=\"content-pay-transparency\"><p><p>At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.</p>\r\n<p><em><span style=\"font-weight: 400;\">Information regarding the culture at Pinterest and benefits available for this position can be found <a href=\"https://www.pinterestcareers.com/pinterest-life/\" target=\"_blank\" rel=\"noopener\">here</a>.</span></em></p></p><p class=\"title\">US based applicants only</p><div class=\"pay-range\"><span>$135,150</span><span class=\"divider\">—</span><span>$278,000 USD</span></div></div><div class=\"content-conclusion\"><p><strong>Our Commitment to Diversity:</strong></p>\r\n<p>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify <a href=\"mailto:accessibility@pinterest.com\" rel=\"noreferrer\">accessibility@pinterest.com</a> for support.</p></div></div>",
+            "salary":null,
+            "job_type":"Regular",
+            "travel":"United States",
+            "level":null,
+            "relocation":null,
+            "education":null,
+            "years_experience":null,
+            "open_positions":null,
+            "brand":null,
+            "department":"Monetization",
+            "shift":null,
+            "recruiter":null,
+            "parent_category":null,
+            "sub_category":null,
+            "business_unit":null,
+            "is_internal":null,
+            "employment_type":null,
+            "schedule":null,
+            "compliment":null,
+            "store_id":null,
+            "close_date":"2033-04-10T00:00:00",
+            "open_date":"2023-04-10T00:00:00",
+            "url":"https://www.pinterestcareers.com/job/18341491/staff-machine-learning-engineer-ads-marketplace-san-francisco-ca/",
+            "seo_url":"https://www.pinterestcareers.com/job/18341491/staff-machine-learning-engineer-ads-marketplace-san-francisco-ca/",
+            "location_type":null,
+            "importance":0.0,
+            "commute":null,
+            "freshness":12240000,
+            "metadata":null,
+            "timestamp":"1687493807",
+            "easy_apply":[
+
+            ],
+            "internal_url":null,
+            "multi_select1":[
+
+            ],
+            "multi_select2":[
+
+            ],
+            "erp_eligible":null,
+            "erp_bonus":null,
+            "custom_fields":{
+
+            }
+         }
+      }
+   ],
+   "histogramResults":[
+
+   ],
+   "metadata":{
+      "requestId":"f095c9f8-5411-456f-ad8c-38f7a2d77c5e:APAb7IQQu+iNxzVG0npHXyqYQDmPqc6NcA==",
+      "ETag":null
+   },
+   "timestamp":"1687493807"
+}
