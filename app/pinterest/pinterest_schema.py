@@ -36,4 +36,4 @@ class PinterestSchema(BaseModel):
         allow_population_by_field_name = True
     total_hits: int
     next_page_token: str | None = None
-    search_results: list[SearchResult] | None = None
+    search_results: list[SearchResult]

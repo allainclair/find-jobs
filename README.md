@@ -9,3 +9,7 @@
 ## Apps
 
 `pdm run pinterest`
+
+## Code quality
+
+`pdm run mypy .`
