@@ -1,12 +1,16 @@
 from app.httpx_async_client import get_httpx_async_client
 from httpx import Response
 from app.pinterest.pinterest_schema import PinterestSchema
-from app.pinterest.config import URL_TEMPLATE, TIMEOUT, PAGE_SIZE, QUERY
+from app.pinterest.config import URL_TEMPLATE, TIMEOUT, PAGE_SIZE, QUERY, URL_TEMPLATE_CITY, PRIMARY_CITY
 from urllib.parse import quote
 
 
 def format_main_url() -> str:
     return URL_TEMPLATE.format(page_size=PAGE_SIZE, query=quote(QUERY))
+
+
+def format_main_url_city() -> str:
+    return URL_TEMPLATE_CITY.format(page_size=PAGE_SIZE, query=quote(QUERY), primary_city=quote(PRIMARY_CITY))
 
 
 async def get_all_jobs() -> PinterestSchema:

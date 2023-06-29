@@ -26,3 +26,4 @@ test = [
 
 [tool.pdm.scripts]
 pinterest = "python -m app.pinterest"
+main = "python -m app"
