@@ -1,4 +1,4 @@
-from pydantic import BaseModel, validator, AnyHttpUrl
+from pydantic import BaseModel, AnyHttpUrl
 from humps import camelize
 from logging import getLogger
 
@@ -7,7 +7,6 @@ logger = getLogger(__name__)
 
 class Summary(BaseModel):
     job_summary: str
-    job_title_snippet: str
     search_text_snippet: str
 
 

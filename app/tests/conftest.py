@@ -1,0 +1,1 @@
+from app.pinterest.tests.fixture_pinterest_schemas import pinterest_schema
