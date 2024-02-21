@@ -1,5 +1,5 @@
 from app.job_schema import map_pinterest_to_job_schema, map_pinterest_result_to_job_schema, JobSchema
-from app.pinterest.pinterest_schema import PinterestSchema, SearchResult
+from apps.app.pinterest.pinterest_schema import PinterestSchema, SearchResult
 
 
 def assert_job_schema_to_pinterest_search_result(job: JobSchema, search_result: SearchResult) -> None:

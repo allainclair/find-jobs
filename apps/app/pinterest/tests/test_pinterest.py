@@ -1,4 +1,4 @@
-from app.pinterest.pinterest_schema import PinterestSchema
+from apps.app.pinterest.pinterest_schema import PinterestSchema
 from app.pinterest.pinterest import _get, _merge_schemas, get_all_jobs, format_main_url
 from httpx import Response, HTTPStatusError
 import respx

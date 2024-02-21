@@ -1,4 +1,4 @@
-from app.pinterest.pinterest_schema import PinterestSchema
+from apps.app.pinterest.pinterest_schema import PinterestSchema
 from pytest import fixture
 
 PATH = "app/pinterest/tests/fixture_pinterest_schema_1.json"

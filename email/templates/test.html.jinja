@@ -1,0 +1,19 @@
+<html>
+	<body>
+		<div>
+			<h1>Jobs from today ({{ jobs|length }})</h1>
+
+			{% for job in jobs %}
+			<div>
+				<h2>{{ job.title }}</h2>
+				<h3>{{ job.company }} - {{ job.location }} - {{ job.date }}</h3>
+				<p>{{ job.description }}</p>
+				<p>Matching keywords({{ job.matching_keywords|length }}): {{ ", ".join(job.matching_keywords) }}</p>
+				<a href="{{ job.url }}">View Job</a>
+			</div>
+			{% endfor %}
+
+		</div>
+
+	</body>
+</html>

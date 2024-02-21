@@ -1,6 +1,6 @@
 from app.httpx_async_client import get_httpx_async_client
 from httpx import Response
-from app.pinterest.pinterest_schema import PinterestSchema
+from apps.app.pinterest.pinterest_schema import PinterestSchema
 from app.pinterest.config import URL_TEMPLATE, TIMEOUT, PAGE_SIZE, QUERY, URL_TEMPLATE_CITY, PRIMARY_CITY
 from urllib.parse import quote
 

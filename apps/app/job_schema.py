@@ -1,5 +1,5 @@
 from pydantic import BaseModel
-from app.pinterest.pinterest_schema import PinterestSchema, SearchResult
+from apps.app.pinterest.pinterest_schema import PinterestSchema, SearchResult
 
 
 class JobSchema(BaseModel):
