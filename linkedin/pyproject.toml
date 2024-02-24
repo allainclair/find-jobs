@@ -1,0 +1,90 @@
+[project]
+name = "linkedin"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Allainclair", email = "allainclair@gmail.com"},
+]
+dependencies = [
+    "playwright>=1.41.2",
+    "python-dotenv>=1.0.1",
+]
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
+
+[tool.pdm.dev-dependencies]
+lint = [
+    "mypy>=1.8.0",
+    "ruff>=0.2.2",
+]
+debug = [
+    "ipython>=8.21.0",
+    "rich>=13.7.0",
+]
+
+[tool.pdm.scripts]
+
+# Main
+
+main = {cmd = ["python", "-m", "src.main"]}
+
+# Lint
+mypy-strict = {cmd = ["mypy", "--strict", "."]}
+ruff-dot = {cmd = ["ruff", "."]}
+ruff-format = {cmd = ["ruff", "format"]}
+ruff-fix = {cmd = ["ruff", ".", "--fix"]}
+
+ruff-all = {composite = ["ruff-dot", "ruff-format"]}
+lint = {composite = ["ruff-all", "mypy-strict"]}
+
+[tool.ruff]
+line-length = 80
+
+lint.select = [
+    "E",
+    "F",
+    "I",
+    "W",
+    "N",
+    "COM",
+    "C4",
+    "PIE",
+    "T20",
+    "Q",
+    "RET",
+    "SIM",
+    "ARG",
+    "PGH",
+    "RUF",
+]
+lint.ignore = [
+    # https://docs.astral.sh/ruff/formatter/#format-suppression
+    "E111",  # https://docs.astral.sh/ruff/rules/indentation-with-invalid-multiple/
+    "E114",  # https://docs.astral.sh/ruff/rules/indentation-with-invalid-multiple-comment/
+    # "E117",  # https://docs.astral.sh/ruff/rules/over-indented/
+    # "D206",  # https://docs.astral.sh/ruff/rules/indent-with-spaces/
+    # "D300",  # https://docs.astral.sh/ruff/rules/triple-single-quotes/
+    # "ISC001", # https://docs.astral.sh/ruff/rules/single-line-implicit-string-concatenation/
+    # "ISC002",  # https://docs.astral.sh/ruff/rules/multi-line-implicit-string-concatenation/
+    # "Q001",  # https://docs.astral.sh/ruff/rules/bad-quotes-multiline-string/
+    # "Q002",  # https://docs.astral.sh/ruff/rules/bad-quotes-docstring/
+    # "Q003",  # https://docs.astral.sh/ruff/rules/avoidable-escaped-quote/
+    "W191",  # https://docs.astral.sh/ruff/rules/tab-indentation/
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "tab"
+line-ending = "lf"  # Use `\n` line endings for all files
+
+[tool.ruff.lint.isort]
+case-sensitive = true
+split-on-trailing-comma = false
+
+[tool.ruff.lint.mccabe]
+max-complexity = 10

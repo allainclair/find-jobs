@@ -1,5 +1,7 @@
 from asyncio import run
 from email.mime.multipart import MIMEMultipart
+from email.mime.base import MIMEBase
+from datetime import datetime
 from email.mime.text import MIMEText
 
 from aiosmtplib import send
@@ -32,8 +34,8 @@ linkedin_jobs = [job1, job2]
 
 async def send_email() -> None:
 	smtp_host = config["SMTP_HOST"]
-	smtp_port = config.get("SMTP_PORT")
-	assert isinstance(smtp_port, int), "SMTP_PORT must be an integer"
+	smtp_port = int(config.get("SMTP_PORT"))
+	# assert isinstance(smtp_port, int), "SMTP_PORT must be an integer"
 
 	sender_email = config.get("SENDER_EMAIL") or ""
 	sender_password = config.get("SENDER_PASSWORD", "")
@@ -64,8 +66,22 @@ async def build_mime_multipart_message(
 	message["To"] = recipient_email
 	message["Subject"] = "Welcome"
 	html_message = template.render(jobs=jobs)
-	body = MIMEText(html_message, "html", "utf-8")
+
+	attachment = MIMEBase('application', 'octet-stream')
+	attachment.set_payload(html_message.encode("utf-8"))
+	today_date = datetime.today().strftime('%Y-%m-%d')
+	file_name = f"job-list-{today_date}.html"
+	attachment.add_header('Content-Disposition', f'attachment; filename="{file_name}"')
+
+	body = MIMEText(
+		f'Open the "{file_name}" file in a browser using internet to bring the styles.',
+		"html",
+		"utf-8",
+	)
+
 	message.attach(body)
+	message.attach(attachment)
+
 	return message
 
 
